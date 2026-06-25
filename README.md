@@ -8,8 +8,6 @@ tự động hóa của AI) và **Người lao động ngành CS** (đánh giá 
 — chuẩn phân loại hành vi lao động tổng quát của O\*NET, tái sử dụng được giữa các nghề
 và giữa các ngành, thay vì phân tích theo từng Task hay Occupation riêng lẻ.
 
-🔗 **Demo trực tiếp:** *(thêm link Streamlit Cloud nếu deploy)*
-
 ---
 
 ## Tóm tắt 3 Insight chính
