@@ -145,9 +145,4 @@ thiết kế Agent theo 3 Tier.
   cộng tuyến giữa 2 biến này, r=0.54 — cần kiểm tra VIF trước khi đưa cùng vào model).
 - Thử nghiệm trọng số theo toàn bộ danh sách GWA của mỗi task, thay vì chỉ lấy GWA đầu.
 
----
 
-## Nguồn dữ liệu & Công nghệ
-
-- O\*NET-SOC Code, Generalized Work Activity: [O\*NET Online](https://www.onetonline.org/)
-- Python, pandas, Streamlit, Plotly
